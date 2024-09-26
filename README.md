@@ -8,6 +8,25 @@
 Computing from Savitribai Phule Pune University.
 </p>
 
+```mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'primaryColor': '#dbdbd9',
+      'primaryTextColor': 'black',
+      'primaryBorderColor': 'black',
+      'lineColor': '#fcfc6f',
+      'secondaryColor': '#006100',
+      'tertiaryColor': '#fff'
+    }
+  }
+}%%
+graph LR;
+    A[Learning new things]-->B[Applying those things]
+    B[Applying those things]-->A[Learning new things]
+```
+
 <!---
 astroartics/astroartics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
