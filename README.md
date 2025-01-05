@@ -42,7 +42,7 @@ graph LR;
 <p align="center">
     💻 Programming    <br/>
     📷 Macro Photography<br/>
-    🧩 Problem Solving  <br/>
+    🧩 Problem Solving      <br/>
 </p>
 
 <!---
