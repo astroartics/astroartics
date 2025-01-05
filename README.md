@@ -5,8 +5,7 @@
 <div align="center"><img src="https://streak-stats.demolab.com?user=astroartics&theme=gruvbox" alt="GitHub Streak" /></div><br/><br/>
 <h2 align="center">About Me</h2>
 <p align="center">
-    I'm a Computer Science graduate, currently pursuing my Master's degree in Scientific 
-Computing from Savitribai Phule Pune University.
+    I'm a Computer Science graduate, currently pursuing my Master's degree in Scientific <br/>Computing from Savitribai Phule Pune University.
 </p>
 
 ```mermaid
