@@ -40,7 +40,9 @@ graph LR;
 
 <h2 align="center">Things I like</h2>
 <p align="center">
-    💻 Programming    <br/>📷 Macro Photography<br/>🧩 Problem Solving<br/>
+    💻 Programming    <br/>
+    📷 Macro Photography<br/>
+    🧩 Problem Solving  <br/>
 </p>
 
 <!---
