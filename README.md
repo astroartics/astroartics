@@ -43,6 +43,7 @@ graph LR;
     💻 Programming    <br/>
     📷 Macro Photography<br/>
     🧩 Problem Solving      <br/>
+    🖌️ Canvas Painting       <br/>
 </p>
 
 <!---
