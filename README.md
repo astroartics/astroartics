@@ -36,7 +36,7 @@ graph LR;
     <img width=65 src="https://github.com/user-attachments/assets/9a3d3974-78b2-454d-a3e1-e625cedf5618">
     <br/><p>Back-end</p><img width=65 src="https://github.com/user-attachments/assets/3a06670f-e26e-4bf7-a62d-f21f085250d4">
 <!--     <img width=70 src="https://github.com/user-attachments/assets/620c7a23-e2da-4fcf-9268-43d07474e3c9"> -->
-</div><br/><br/>
+</div><br/><br/></br>
 
 <h2 align="center">Things I like</h2>
 <p align="center">
