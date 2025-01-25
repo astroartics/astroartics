@@ -27,6 +27,14 @@ graph LR;
     B[Applying those things]-->A[Learning new things]
 ```
 
+<h2 align="center">Things I like</h2>
+<p align="center">
+    💻 Programming    <br/>
+    📷 Macro Photography<br/>
+    🧩 Problem Solving      <br/>
+    🖌️ Canvas Painting       <br/>
+</p><br/><br/>
+
 <h2 align="center">Languages</h2>
 <div align="center">
     <p>Programming</p><img width=90 src="https://github.com/user-attachments/assets/6e24ff28-278d-4588-92c6-f25e8428bbf3">
@@ -36,15 +44,7 @@ graph LR;
     <img width=65 src="https://github.com/user-attachments/assets/9a3d3974-78b2-454d-a3e1-e625cedf5618">
     <br/><p>Back-end</p><img width=65 src="https://github.com/user-attachments/assets/3a06670f-e26e-4bf7-a62d-f21f085250d4">
 <!--     <img width=70 src="https://github.com/user-attachments/assets/620c7a23-e2da-4fcf-9268-43d07474e3c9"> -->
-</div><br/><br/></br>
-
-<h2 align="center">Things I like</h2>
-<p align="center">
-    💻 Programming    <br/>
-    📷 Macro Photography<br/>
-    🧩 Problem Solving      <br/>
-    🖌️ Canvas Painting       <br/>
-</p>
+</div>
 
 <!--[![Title](Image URL)](Link URL)-->
 <!--[!['Hi there!'](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuSnGxhn9iPn8RtJyAn_TlYYJUAcjmzwOgCg&s)](https://libntl.org/doc/tour-struct.html)-->
