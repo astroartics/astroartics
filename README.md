@@ -34,7 +34,7 @@ graph LR;
     <br/><p>Front-end</p><img width=70 src="https://github.com/user-attachments/assets/620c7a23-e2da-4fcf-9268-43d07474e3c9">
     <img width=65 src="https://github.com/user-attachments/assets/5170d996-e357-4dd4-8949-d996c2b1e682">
     <img width=65 src="https://github.com/user-attachments/assets/9a3d3974-78b2-454d-a3e1-e625cedf5618">
-    <br/><p>Back-end</p><img width=65 src="https://github.com/user-attachments/assets/3a06670f-e26e-4bf7-a62d-f21f085250d4">
+    <p>Back-end</p><img width=65 src="https://github.com/user-attachments/assets/3a06670f-e26e-4bf7-a62d-f21f085250d4">
 <!--     <img width=70 src="https://github.com/user-attachments/assets/620c7a23-e2da-4fcf-9268-43d07474e3c9"> -->
 </div><br/><br/></br>
 
