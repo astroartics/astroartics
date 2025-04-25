@@ -1,3 +1,9 @@
+<div align="center">
+<img src="https://github.com/user-attachments/assets/659c234d-f79d-4262-8e00-a606d15030aa" width=700>
+</div>
+<br/>
+
+<!--
 <p align="center">
     <img src="https://github.com/user-attachments/assets/29160e15-ea69-4a11-a185-959419413ebe" width=600>
 </p>
@@ -7,6 +13,7 @@
 <p align="center">
     I'm currently pursuing my Master's degree in Scientific <br/>Computing from Savitribai Phule Pune University.
 </p>
+-->
 
 ```mermaid
 %%{
@@ -26,7 +33,7 @@ graph LR;
     A[Learning new things]-->B[Applying those things]
     B[Applying those things]-->A[Learning new things]
 ```
-
+<!--
 <h2 align="center">Things I like</h2>
 <p align="center">
     💻 Programming    <br/>
@@ -44,8 +51,9 @@ graph LR;
     <img width=65 src="https://github.com/user-attachments/assets/9a3d3974-78b2-454d-a3e1-e625cedf5618">
     <br/><br/><p>Back-end</p><img width=65 src="https://github.com/user-attachments/assets/3a06670f-e26e-4bf7-a62d-f21f085250d4">
     <img width=70 src="https://github.com/user-attachments/assets/620c7a23-e2da-4fcf-9268-43d07474e3c9">
-<!--     <img width=70 src="https://github.com/user-attachments/assets/620c7a23-e2da-4fcf-9268-43d07474e3c9"> -->
+    <img width=70 src="https://github.com/user-attachments/assets/620c7a23-e2da-4fcf-9268-43d07474e3c9">
 </div>
+-->
 
 <!--[![Title](Image URL)](Link URL)-->
 <!--[!['Hi there!'](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuSnGxhn9iPn8RtJyAn_TlYYJUAcjmzwOgCg&s)](https://libntl.org/doc/tour-struct.html)-->
