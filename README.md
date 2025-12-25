@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/9557404e-df5d-44c1-b923-1a82ced933bd" width=650>
+<img src="https://github.com/user-attachments/assets/cc3c1f4c-225c-4b13-afd1-de3ec2e5f68d" width=650>
 </div>
 <br/>
 
@@ -15,3 +15,4 @@
 
 <!-- <img width="809" height="343" alt="Screenshot from 2025-12-25 14-45-39" src="https://github.com/user-attachments/assets/473c536b-c95c-45cd-b572-cd5dcdb513b5" /> -->
 <!-- <img width="834" height="339" alt="Screenshot from 2025-12-25 14-48-54" src="https://github.com/user-attachments/assets/9557404e-df5d-44c1-b923-1a82ced933bd" /> -->
+<!-- <img width="854" height="342" alt="Screenshot from 2025-12-25 14-55-26" src="https://github.com/user-attachments/assets/cc3c1f4c-225c-4b13-afd1-de3ec2e5f68d" /> -->
