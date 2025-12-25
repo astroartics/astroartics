@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/d2eb7a7d-2157-4719-a83b-24d09841fc60" width=800>
+<img src="https://github.com/user-attachments/assets/473c536b-c95c-45cd-b572-cd5dcdb513b5" width=800>
 </div>
 <br/>
 
@@ -12,3 +12,4 @@
 <br/><br/>
 <div align="center"><img src="https://streak-stats.demolab.com?user=astroartics&theme=gruvbox" alt="GitHub Streak" /></div><br/><br/>
 
+<!-- <img width="809" height="343" alt="Screenshot from 2025-12-25 14-45-39" src="https://github.com/user-attachments/assets/473c536b-c95c-45cd-b572-cd5dcdb513b5" /> -->
